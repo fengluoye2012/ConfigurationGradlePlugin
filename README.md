@@ -1,0 +1,2 @@
+# ConfigurationGradlePlugin
+用来统一多个project、module使用统一套gradle配置规范等
